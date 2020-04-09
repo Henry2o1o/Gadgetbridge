@@ -760,10 +760,6 @@
     <string name="widget_sleep_label">Schlaf: %1$s</string>
     <string name="widget_listing_label">Status und Wecker</string>
     <string name="widget_set_alarm_after">Wecker einstellen nach:</string>
-    <plurals name="widget_alarm_target_hours">
-        <item quantity="one">%d Std</item>
-        <item quantity="other">%d Std</item>
-    </plurals>
     <string name="preferences_makibes_hr3_settings">Makibes HR3 Einstellungen</string>
     <string name="devicetype_makibes_hr3">Makibes HR3</string>
     <string name="devicetype_amazfit_bip_lite">Amazfit Bip Lite</string>
